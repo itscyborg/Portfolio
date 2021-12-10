@@ -9,7 +9,7 @@ body{
 }
 /* designing nav bar  */
 .topnav{
-    background-color: #F59E0B;
+    background-color: #150bf5;
     border-radius: 2rem;
     padding: 0.7rem;
 }
@@ -84,8 +84,8 @@ p{
 footer{ 
     text-align: center;
     padding-inline-start: 0px;
-    background-color: #F59E0B;
-    padding: 0.5rem;
+    background-color: #150bf5;
+    padding: 0rem;
     margin-top: 2rem;
     border-radius: 2rem;
     color: white;
@@ -184,7 +184,7 @@ h1{
 }
 
 .olist a{
-    background-color: #F59E0B;
+    background-color: #150bf5;
     color: white;
     padding: 0.5rem;
     border-radius: 1rem;
@@ -206,14 +206,14 @@ h1{
     margin-right: 2rem ;
 }
 .read{
-    background-color: #F59E0B;
+    background-color: #150bf5;
     color: white;
     text-decoration: none;
     font-size: 20px;
     padding: 0.5rem;
     border-radius: 1rem;
-    border-color: 2px solid #F59E0B;
-    outline: #F59E0B;
+    border-color: 2px solid #150bf5;
+    outline: #150bf5;
 }
 
 .list-non-bullet{
